@@ -1,6 +1,8 @@
 # flareteste
 
-A new Flutter application.
+Aplicativo utilizando o Flare.
+
+https://github.com/moises100hp/Flare_Teste/blob/master/Captura%20de%20Tela%202020-11-28%20%C3%A0s%2012.54.56.png?raw=true
 
 ## Getting Started
 
